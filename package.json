@@ -1,0 +1,23 @@
+{
+  "name": "real-time-chat-system",
+  "version": "1.0.0",
+  "description": "A real-time chat application built with WebSockets, enabling users to send and receive messages instantly with a seamless and responsive experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryam958/Real-Time-Chat-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryam958/Real-Time-Chat-System/issues"
+  },
+  "homepage": "https://github.com/maryam958/Real-Time-Chat-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
